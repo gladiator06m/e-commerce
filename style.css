@@ -1,0 +1,238 @@
+*{
+    padding:0px;
+    margin:0px;
+    box-sizing: border-box;
+    font-family: 'Alegreya Sans', sans-serif;
+    
+}
+
+html{
+    background: rgb(232,11,125);
+    background: linear-gradient(90deg, rgba(232,11,125,1) 0%, rgba(50,0,125,1) 100%);
+}
+
+
+/* nav */
+nav{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    background: rgb(232,11,125);
+    background: linear-gradient(90deg, rgba(232,11,125,1) 0%, rgba(50,0,125,1) 100%);
+    border-bottom:3px solid white;
+  
+}
+
+nav .nav li{
+    display:inline-block;
+    margin-top:10px;
+}
+
+nav .nav li a{
+    text-decoration:none;
+    margin-right:50px;
+    color:white;
+    font-size:25px;
+}
+
+nav .nav li a:hover{
+    color:red;
+    opacity: 0.6;
+    transition: 0.3s;
+}
+
+.logo a img{
+    margin-top:10px;
+    margin-left:50px;
+    width: 100%;
+}
+
+
+/* banniere */
+.banniere img{
+   width: 100%;
+}
+
+.banniere{
+    border-bottom:3px solid white;
+}
+
+/* categorie */
+
+aside{
+    margin:0;
+    padding: 0;
+}
+
+.categorie{
+    display:flex;
+    justify-content:space-around;
+    background: rgb(232,11,125);
+    background: linear-gradient(90deg, rgba(232,11,125,1) 0%, rgba(50,0,125,1) 100%);
+}
+aside .categorie ul {
+    background-color: #333;
+  }
+  
+  aside .categorie li {
+    list-style-type: none;
+  }
+  
+  aside .categorie li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    border-radius:5px;
+  }
+  
+  aside .categorie li a:hover:not(.active) {
+    background-color: #111;
+    transition: 0.3s;
+  }
+
+  aside .categorie li .active{
+    background-color: #111;
+  }
+
+  /* article */
+
+  article .smartphone img{
+      width: 100%;
+  }
+
+  article{
+      display: flex;
+      justify-content: center;
+      flex-wrap:wrap;
+      margin-left: auto;
+      margin-right: auto;
+      padding-top:10px;
+      background: rgb(232,11,125);
+      background: linear-gradient(90deg, rgba(232,11,125,1) 0%, rgba(50,0,125,1) 100%);
+  }
+
+  .smartphone{
+      width: 300px;
+      height: 430px;
+      border:1px solid rgb(202, 202, 202);
+      border-radius:5px;
+      margin: 20px;
+      padding:20px;
+      background: rgb(224,234,252);
+background: linear-gradient(90deg, rgba(224,234,252,1) 0%, rgba(207,222,243,1) 100%);
+  }
+
+  .smartphone h2 {
+      padding-left:72px;
+  }
+  .smartphone h3 {
+    padding-left:72px;
+    padding-top:2px;
+}
+.smartphone p{
+    padding-left:72px;
+    padding-top:2px;
+}
+.smartphone .bouton{
+    padding-left:72px;
+    padding-top: 20px;
+}
+
+  button{
+    color: #494949 ;
+    text-decoration: none;
+    padding: 5px 10px;
+    display: inline-block;
+    transition: all 0.4s ease 0s;
+    border-radius:10px;
+    cursor: pointer;
+    font-size: 15px;
+    border:none;
+    background-color:#2961fc;
+    color:white
+    }
+  
+
+  button:hover {
+    color: #ffffff ;
+    background: rgb(250, 83, 83);
+    border-color:  rgb(250, 83, 83);
+    transition: all 0.4s ease 0s;
+    }
+
+    footer .logo2 a img{
+        margin-top:10px;
+        width: 100%;
+    
+    }
+
+
+    /* footer */
+    footer{
+         background: rgb(232,11,125);
+        background: linear-gradient(90deg, rgba(232,11,125,1) 0%, rgba(50,0,125,1) 100%);
+        text-align: center;
+        display: flex;
+        justify-content: space-around;
+        padding:30px;
+        align-items: center;
+        color:white
+    }
+ 
+    .logo2{
+        display: flex;
+        flex-direction:column;
+        justify-content: center;
+        padding-top:40px;
+    }
+
+    footer .contact img{
+        margin-left: auto;
+        margin-right: auto;
+    } 
+
+    .contact p{
+        padding-top:10px;
+    }
+
+    .adresse p{
+        padding-top:10px
+    }
+
+    .logo2 a{
+        text-decoration:none;
+        color:white;
+        padding:5px;
+    }
+
+    .logo2 a:hover{
+    color:rgb(255, 160, 160);
+    transition: 0.3s;
+    }
+
+    .ligne{
+      width: 1000px;
+      height: 3px;
+      background-color:white;
+      margin-left:auto;
+      margin-right: auto;
+    }
+
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+  

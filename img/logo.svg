@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 605.66 138.64" style="enable-background:new 0 0 605.66 138.64;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;fill:#FFFFFF;}
+	.st2{fill:#fff;}
+	.st3{font-family:'Alegreya Sans', sans-serif;}
+	.st4{font-size:55.308px;}
+	.st5{fill:url(#SVGID_1_);}
+	.st6{fill:url(#SVGID_2_);}
+	.st7{fill:url(#SVGID_3_);}
+	.st8{fill:#FFF;}
+	.st9{font-family:'Alegreya Sans', sans-serif;}
+	.st10{font-size:30.8163px;}
+</style>
+<g id="BACKGROUND" class="st0">
+	<polygon class="st1" points="338.77,-149.81 -36.23,-149.81 -36.23,350.19 338.77,350.19 713.77,350.19 713.77,-149.81 	"/>
+</g>
+<g id="OBJECTS">
+	<g>
+		<text transform="matrix(1 0 0 1 246.4437 78.8696)" class="st2 st3 st4">WEBMARKET</text>
+		<g>
+			<g>
+				<path class="st2" d="M16.45,43.64h-0.21c-4.17,0-7.55-3.38-7.55-7.55V15.55H24v20.53C24,40.25,20.62,43.64,16.45,43.64z"/>
+				<path class="st2" d="M48.25,43.64L48.25,43.64c-4.23,0-7.66-3.43-7.66-7.66V15.55H55.9v20.43
+					C55.9,40.21,52.47,43.64,48.25,43.64z"/>
+				<path class="st2" d="M80.15,43.64L80.15,43.64c-4.23,0-7.66-3.43-7.66-7.66V15.55H87.8v20.43
+					C87.8,40.21,84.38,43.64,80.15,43.64z"/>
+				<path class="st2" d="M112.05,43.64L112.05,43.64c-4.23,0-7.66-3.43-7.66-7.66V15.55h15.31v20.43
+					C119.71,40.21,116.28,43.64,112.05,43.64z"/>
+				<path class="st2" d="M143.95,43.64L143.95,43.64c-4.23,0-7.66-3.43-7.66-7.66V15.55h15.31v20.43
+					C151.61,40.21,148.18,43.64,143.95,43.64z"/>
+				<path class="st2" d="M175.85,43.64L175.85,43.64c-4.23,0-7.66-3.43-7.66-7.66V15.55h15.31v20.43
+					C183.51,40.21,180.08,43.64,175.85,43.64z"/>
+				<path class="st2" d="M207.86,43.64h-0.21c-4.17,0-7.55-3.38-7.55-7.55V15.55h15.31v20.53
+					C215.41,40.25,212.03,43.64,207.86,43.64z"/>
+			</g>
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="36.863" y1="111.9827" x2="36.863" y2="55.5708">
+				<stop  offset="0" style="stop-color:#FF9244"/>
+				<stop  offset="1" style="stop-color:#FFD669"/>
+			</linearGradient>
+			<path class="st5" d="M53.8,74.49v-7.37c0-9.34-7.6-16.94-16.94-16.94c-9.34,0-16.94,7.6-16.94,16.94v7.37H8.69v30.2
+				c0,6.3,5.1,11.4,11.4,11.4h33.55c6.3,0,11.4-5.1,11.4-11.4v-30.2H53.8z M26.95,67.12c0-5.47,4.45-9.92,9.92-9.92
+				c5.47,0,9.92,4.45,9.92,9.92v7.37H26.95V67.12z"/>
+			<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="112.0502" y1="110.247" x2="112.0502" y2="57.994">
+				<stop  offset="0" style="stop-color:#02007d"/>
+				<stop  offset="1" style="stop-color:#5350ff"/>
+			</linearGradient>
+			<path class="st6" d="M128.99,74.49v-7.37c0-9.34-7.6-16.94-16.94-16.94s-16.94,7.6-16.94,16.94v7.37H83.88v30.2
+				c0,6.3,5.1,11.4,11.4,11.4h33.55c6.3,0,11.4-5.1,11.4-11.4v-30.2H128.99z M102.13,67.12c0-5.47,4.45-9.92,9.92-9.92
+				c5.47,0,9.92,4.45,9.92,9.92v7.37h-19.83V67.12z"/>
+			<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="187.2374" y1="111.1149" x2="187.2374" y2="57.1319">
+				<stop  offset="0" style="stop-color:#448770"/>
+				<stop  offset="1" style="stop-color:#74CB63"/>
+			</linearGradient>
+			<path class="st7" d="M204.18,74.49v-7.37c0-9.34-7.6-16.94-16.94-16.94c-9.34,0-16.94,7.6-16.94,16.94v7.37h-11.24v30.2
+				c0,6.3,5.1,11.4,11.4,11.4h33.55c6.3,0,11.4-5.1,11.4-11.4v-30.2H204.18z M177.32,67.12c0-5.47,4.45-9.92,9.92-9.92
+				c5.47,0,9.92,4.45,9.92,9.92v7.37h-19.83V67.12z"/>
+			<path class="st2" d="M205.12,134.69H18.98c-5.68,0-10.29-4.61-10.29-10.29l0,0h206.72l0,0
+				C215.41,130.08,210.81,134.69,205.12,134.69z"/>
+			<path class="st2" d="M18.98,5.26h186.14c5.68,0,10.29,4.61,10.29,10.29l0,0H8.69l0,0C8.69,9.87,13.3,5.26,18.98,5.26z"/>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 310.0183 111.171)" class="st8 st9 st10">SHOP-ONLINE</text>
+</g>
+</svg>
