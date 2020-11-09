@@ -20,6 +20,7 @@ nav{
     background: rgb(232,11,125);
     background: linear-gradient(90deg, rgba(232,11,125,1) 0%, rgba(50,0,125,1) 100%);
     border-bottom:3px solid white;
+    width: 100%;
   
 }
 
@@ -178,7 +179,8 @@ background: linear-gradient(90deg, rgba(224,234,252,1) 0%, rgba(207,222,243,1) 1
         justify-content: space-around;
         padding:30px;
         align-items: center;
-        color:white
+        color:white;
+        width: 100%;
     }
  
     .logo2{
